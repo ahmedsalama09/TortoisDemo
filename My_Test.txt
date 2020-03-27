@@ -3,7 +3,7 @@ here i am illustrating TortoisGit
 
 =======
 
-ok i am readyllala
+ok i am readyllalas
 >>>>>>> master
 but i am not
 
