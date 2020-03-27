@@ -2,6 +2,6 @@ here i am illustrating TortoisGit
 <<<<<<< HEAD
 
 =======
-ok i am ready
+ok i am readyllala
 >>>>>>> master
 but i am not
