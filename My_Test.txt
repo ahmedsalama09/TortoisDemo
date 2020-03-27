@@ -1,3 +1,7 @@
 here i am illustrating TortoisGit
+<<<<<<< HEAD
 
+=======
+ok i am ready
+>>>>>>> master
 but i am not
